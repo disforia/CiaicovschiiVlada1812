@@ -1,1 +1,8 @@
+body {
+  align-items: center;
+  color: purple;
+}
 
+body h1 {
+  color: rgb(92, 228, 74);
+}
